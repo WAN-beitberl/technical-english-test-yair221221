@@ -1,0 +1,15 @@
+Technical English 
+
+In the bigging, I opened the link that you sent and start reading about react and I tried to figure up the syntax of this language 
+
+then I wanted to set up React on my computer and start working on the project. to do that I looked for IDE that can be comfortable and easy to use with React. 
+https://www.bairesdev.com/blog/best-react-ide-editors/
+
+after searching I understand that the best way is to use vs code. even though followed some tutorials and downloaded some extensions I didn't manage to run React.
+https://react.dev/learn/start-a-new-react-project
+https://react.dev/learn/start-a-new-react-project
+https://react.dev/learn/add-react-to-an-existing-project
+ 
+
+I also tried to implement an easy program like hello world to start debugging.
+https://legacy.reactjs.org/docs/hello-world.html
